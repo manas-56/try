@@ -1,2 +1,2 @@
 # manas
-author - manas karir
+author - manas 
